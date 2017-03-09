@@ -1,6 +1,6 @@
 # FancyDialog
 A customisable CountrySelector for Android.
-<img src="https://raw.githubusercontent.com/geniusforapp/countriesSelector/blob/master/device-2017-03-09-122324.png">
+<img src="https://raw.githubusercontent.com/geniusforapp/countriesSelector/master/device-2017-03-09-122324.png">
 
 
 ## Add Library
